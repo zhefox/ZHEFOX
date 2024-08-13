@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+  # 🙋 Hello World！
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 </div>
-
-# 🙋 Hello
 
 ## 🤺 About Me
 
