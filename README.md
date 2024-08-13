@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🙋 Hello
 
-<table width="100%">
+<table width="200px">
   
 <tr><td>
 
