@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="100%" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  ![github-header-image](https://github.com/user-attachments/assets/7b6429ab-cef2-4406-b615-4248a81a9f0d)
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
