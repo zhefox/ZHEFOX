@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 
 ## 🙋 Hello
 
-<table width="200px">
-  
-<tr><td>
-
 ### 🤺 About Me
 
 
@@ -43,9 +39,7 @@ Here are some ideas to get you started:
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-</td></tr>
 
-</table>
 
 ## 📊 GitHub 数据统计
 
