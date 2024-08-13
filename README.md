@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <p align="center">&emsp;&emsp;<strong>⚡ 脚踏实地，变得优秀。</strong></p>
 <p align="center">&emsp;&emsp;<strong>⚡ Be down-to-earth and strive for excellence.</strong></p>
 
+![terminal](https://github.com/user-attachments/assets/4a9244a6-d483-40f9-add9-0635232c7af4)
 
   <div>&nbsp;</div>
 
