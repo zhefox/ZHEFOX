@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 🙋 Hello World！
+ ![github-header-image](https://github.com/user-attachments/assets/7b6429ab-cef2-4406-b615-4248a81a9f0d)
 <div align="center">
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-  ![github-header-image](https://github.com/user-attachments/assets/7b6429ab-cef2-4406-b615-4248a81a9f0d)
-  </picture>
-
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 </div>
