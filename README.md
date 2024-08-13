@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  # 🙋 Hello World！
- ![github-header-image](https://github.com/user-attachments/assets/7b6429ab-cef2-4406-b615-4248a81a9f0d)
+ 
 <div align="center">
   <!-- for beauty 留个空行好看点 -->
+ ![terminal](https://github.com/user-attachments/assets/4a9244a6-d483-40f9-add9-0635232c7af4)
   <div>&nbsp;</div>
 </div>
-
+![github-header-image](https://github.com/user-attachments/assets/7b6429ab-cef2-4406-b615-4248a81a9f0d)
 ## 🤺 About Me
 
 
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 <p align="center">&emsp;&emsp;<strong>⚡ 脚踏实地，变得优秀。</strong></p>
 <p align="center">&emsp;&emsp;<strong>⚡ Be down-to-earth and strive for excellence.</strong></p>
 
-![terminal](https://github.com/user-attachments/assets/4a9244a6-d483-40f9-add9-0635232c7af4)
 
   <div>&nbsp;</div>
 
